@@ -1,6 +1,6 @@
 # contact_bloc
 
-This Flutter project covers all the revised Flutter Modular content.
+This Flutter project covers all the revised content of the Flutter Module.
 
 If you are interested, disregard the issues and warnings. This content is out of context, totally focused on learning. The notes are in my native language (Brazilian Portuguese) to facilitate my understanding.
 
