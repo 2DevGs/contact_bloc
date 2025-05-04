@@ -1,16 +1,17 @@
 # contact_bloc
 
-A new Flutter project.
+This Flutter project covers all the revised Flutter Modular content.
 
-## Getting Started
+If you are interested, disregard the issues and warnings. This content is out of context, totally focused on learning. The notes are in my native language (Brazilian Portuguese) to facilitate my understanding.
 
-This project is a starting point for a Flutter application.
+This project includes the following content:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Understanding bloc widgets and implementing structure.
+Conditioning listen and build, sending parameters through the event.
+Configuring freezed.
+Configuring back for CRUD.
+Creating Repository model.
+Handling errors and creating custom components.
+Implementing contact registration structure, changing a contact and searching for a contact.
+Navigation between screens.
+Unit Tests.
